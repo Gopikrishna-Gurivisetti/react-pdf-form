@@ -1,1 +1,1 @@
-# react-pdf-form
+# react-pdf-generator
