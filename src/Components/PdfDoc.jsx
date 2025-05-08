@@ -8,7 +8,7 @@ const PdfDoc = () => {
   const MyDocument = (employee) => (
     <Document>
     <Page size="A4" style={styles.page}>
-      <Text style={styles.heading}>Employee Payslip</Text>
+      <Text style={styles.heading}>Student Details</Text>
   
       <View style={styles.section}>
         <Text>Employee Name: {employee.name}</Text>
